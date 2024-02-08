@@ -51,7 +51,7 @@ using the **van't Hoff approach**.  Powdered samples (100-300 mg) are subjected 
 different atmospheres at different temperature levels (≈400-1300 °C) in a thermobalance.
 Oxygen partial pressures p<sub>O2</sub> between ≈10<sup>-4</sup> bar and 0.9 bar are set
 using a mixture of O<sub>2</sub>, Ar, and synthetic air in different flow rates. From
-equilibrium data of the mass change Δm induced by oxygen release or uptake, we retreived
+equilibrium data of the mass change Δm induced by oxygen release or uptake, we retrieved
 the change in redox enthalpy as a function of the oxygen non-stoichiometry ΔH(δ) and the
 respective change in entropy ΔS(δ).  This data is available by opening the materials
 details pages by clicking on a contribution identifier in the table of materials data. The
@@ -60,7 +60,7 @@ between the measured data points and, to some extent, extrapolations.  Our appro
 modelling the **thermodynamics of perovskite solid solutions**.  Take a solid solution
 like Ca<sub>0.5</sub>Sr<sub>0.5</sub>Fe<sub>0.5</sub>Mn<sub>0.5</sub>O<sub>3-δ</sub> for
 example. According to DFT data, the <b>redox enthalpy ΔH</b> of SrMnO<sub>3-δ</sub> or
-CaMnO<sub>3-δ</sub> is signifiantly larger than the redox enthalpies of
+CaMnO<sub>3-δ</sub> is significantly larger than the redox enthalpies of
 SrFeO<sub>3-δ</sub> or CaFeO<sub>3-δ</sub>. As the Fe<sup>4+</sup> ions in this
 perovskites are typically reduced more readily than the Mn<sup>4+</sup> ions, the redox
 enthalpy for low values of δ is typically lower than for high values of δ[^3]. In our
@@ -77,7 +77,7 @@ The mass change Δm of perovskites was measured vs. a reference point at
 p<sub>O2</sub>=0.18 bar and T=400 °C. Therefore, the change in non-stoichiometry is only
 measured relative to this reference point as a value of Δδ. To obtain the absolute δ
 values, we determined the δ at the reference point, denoted by δ<sub>0</sub> (δ = Δδ +
-δ<sub>0</sub>). This has been done by using the dilute species model and substituing δ for
+δ<sub>0</sub>). This has been done by using the dilute species model and substituting δ for
 Δδ + δ<sub>0</sub>, which allows obtaining δ<sub>0</sub> as one of the fit parameters.
 This method can be inaccurate, therefore, some experimental datasets are shifted in
 direction of δ, such as the dataset for
@@ -198,7 +198,7 @@ specific application. It returns a ranked list of suitable materials visualized 
 interactive bar graph. The energy input is given as heat input per complete redox cycle
 (reduction + oxidation step).
 
-The energy input neccessary to operate a certain redox cycle consitutes of the following
+The energy input necessary to operate a certain redox cycle constitutes of the following
 elements:
 
 * **Chemical Energy:** The chemical energy is defined by the redox enthalpy and is
@@ -291,14 +291,14 @@ following reasons:
     therefore exclude all compounds containing Mo<sup>5+</sup> cations[^5].
 
 This list is by no means complete, most of the perovskite solid solutions we suggest have
-never been systhesized. However, with some understanding of perovskite chemistry and using
+never been synthesized. However, with some understanding of perovskite chemistry and using
 literature on similar phases, it should be possible to get a good estimate on the
 stability of a suggested phase.<br> Moreover, one can also search these phases in <i>The
 Materials Project</i> and find the so-called energy above hull. This is the DFT-calculated
 energy difference between this phase and the most stable phase(s) containing the same
 elements. In principle, if this energy is above 0, it means that the phase is metastable
 according to DFT and may eventually decompose. However, some of these phases have been
-synthesiszed and are stable, so this value just gives a first indication.
+synthesized and are stable, so this value just gives a first indication.
 
 Finally, kinetic limitations also play a role, which are completely neglected herein, as
 DFT calculations are performed for a temperature of 0 K. Especially at low temperatures
